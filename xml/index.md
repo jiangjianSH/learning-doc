@@ -22,3 +22,9 @@
 
 [12 XML Schema](12.md)
 
+[13 XML Schema定义的模板](13.md)
+
+[14 根据XSD来生成XML文件](14.md)
+
+
+
