@@ -2,12 +2,23 @@
 
 [2 XML介绍](2.md)
 
-[3. XML 结构](3.md)
+[3. XML DOM](3.md)
 
 [4. XML语法](4.md)
 
 [5. XML HttpRequest](5.md)
 
-[1 XML](1.md)
+[6 XML Parser](6.md)
 
-[1 XML](1.md)
+[7 XPath](7.md)
+
+[8 XSLT](8.md)
+
+[9 XQuery](9.md)
+
+[10 XLink](10.md)
+
+[11 XML DTD](11.md)
+
+[12 XML Schema](12.md)
+
